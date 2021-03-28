@@ -7,7 +7,7 @@
 ```
 • apt update && apt upgrade
 • apt install git python2
-• git clone http://github.com/X-Newbie/Sudo-Termux
+• git clone http://github.com/ximfine/Sudo-Termux
 • cd Sudo-Termux
 • python2 sudokeun.py
 • termux-setup-storage
@@ -15,7 +15,7 @@
 • cd storage/shared
 • mkdir flash
 • cd flash
-• git clone http://github.com/X-Newbie/FFM-Flash
+• git clone http://github.com/ximfine/FFM-Flash
 • cd FFM-Flash
 • sudo python2 flash.py
 
